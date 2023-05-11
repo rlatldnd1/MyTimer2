@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "431195845917",
+    "project_id": "mipoomta",
+    "storage_bucket": "mipoomta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431195845917:android:6e77816d475589d9e39df4",
+        "android_client_info": {
+          "package_name": "com.example.mytimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431195845917-fn2hl2nieo4gnkl918r80f02mta6nog9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mytimer",
+            "certificate_hash": "75aa536a7f9cee3e25338bdf040d43455c5c3f51"
+          }
+        },
+        {
+          "client_id": "431195845917-bf5er4g5bdom6fckcm66i253f18hvomg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBYQNk0JIF6pnWh0sZ02C5vwc8_OPQpRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431195845917-bf5er4g5bdom6fckcm66i253f18hvomg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
